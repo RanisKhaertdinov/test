@@ -1,0 +1,54 @@
+.navbar-light .navbar-brand{
+    color:#192252;
+}
+
+.navbar-brand{
+    font-size: 32px;
+}
+
+#navbarNav{
+    font-size: 16px;
+}
+
+.btn-success {
+    color: #fff;
+    background-color: #0E1734;
+    border-color: #0E1734;
+  }
+ 
+section{
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+.fallen-picture{
+    top: -50px;
+}
+
+h1{
+    font-size: 36px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+h2{
+    font-size: 18px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+footer{
+    background-color:#0E1734;
+    color:white;
+    padding-top: 50px;
+}
+.logo{
+    display: flex;
+    padding-top: 15px;
+}
+.logo-item{
+    padding: 5px;
+}
+.footer-info{
+    padding-top: 20px;
+}
+
